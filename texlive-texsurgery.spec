@@ -1,6 +1,6 @@
 Name:		texlive-texsurgery
 Version:	59885
-Release:	1
+Release:	2
 Summary:	A LaTeX companion to the "texsurgery" python project
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texsurgery
