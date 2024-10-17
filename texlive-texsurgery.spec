@@ -3,7 +3,7 @@ Version:	59885
 Release:	2
 Summary:	A LaTeX companion to the "texsurgery" python project
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texsurgery
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texsurgery
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texsurgery.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texsurgery.doc.r%{version}.tar.xz
